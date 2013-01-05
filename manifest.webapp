@@ -1,6 +1,6 @@
 {
   "version": "0.1",
-  "name": "Serpent",
+  "name": "Serpent Test",
   "description": "An Open Web App version of the classic game 'snake'.",
   "launch_path": "/serpent/",
   "icons": {
